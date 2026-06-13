@@ -33045,5 +33045,12 @@
     "author": "Murat / Codex",
     "description": "This plugin has not been manually reviewed by Obsidian staff. One-click selectable preview PDF export for Obsidian mobile and desktop.",
     "repo": "arias007/obsidian-mobile-pdf-exporter"
+  },
+  {
+    "id": "lumina",
+    "name": "Lumina",
+    "author": "Lumina",
+    "description": "Your intelligent AI Agent for your vault with RAG and Multi-LLM support.",
+    "repo": "lumina-apps/obsidian-lumina"
   }
 ]
